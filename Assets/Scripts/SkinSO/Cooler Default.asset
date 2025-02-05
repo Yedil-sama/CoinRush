@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 508293ecfc236644eab4bc9bfbcca403, type: 3}
+  m_Name: Cooler Default
+  m_EditorClassIdentifier: 
+  Name: Cooler Default
+  Cost: 5
+  Model: {fileID: 2602298917003552065, guid: dd2835f6bd346834280d8de0eebca13f, type: 3}
+  Sprite: {fileID: 21300000, guid: 0d3acf591b0c5e74c9b7fe73c1cb4415, type: 3}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 508293ecfc236644eab4bc9bfbcca403, type: 3}
+  m_Name: WonSilver
+  m_EditorClassIdentifier: 
+  Name: Won Silver
+  Cost: 10
+  Model: {fileID: 4776571043031420408, guid: 28b22d4c9d9744743b52547e946d78f7, type: 3}
+  Sprite: {fileID: 21300000, guid: c1d9e46a9e68ca24eb7110133aad70fd, type: 3}
